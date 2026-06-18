@@ -1,4 +1,4 @@
-# 🏠 Housing Data Cleaning with SQL Server
+# 🏠 Housing Data Cleaning with SQL
 
 ## Overview
 
